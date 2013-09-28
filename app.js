@@ -1,4 +1,4 @@
-var five = require("johnny-five-tutorial"),
+var five = require("johnny-five"),
         board, photoresistor;
 
     board = new five.Board();
