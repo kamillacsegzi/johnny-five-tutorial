@@ -1,12 +1,10 @@
-johnny-five-tutorial
-====================
 {
     "name": "johnny-five-tutorial",
     "description": "A Johnny-Five tutorial test project",
     "version": "0.0.1",
     "author": {
-        "name": "Your Name <your@email.com>",
-        "email": "your@email.com"
+        "name": "Kamilla Csegzi <kamilla.csegzi@gmail.com>",
+        "email": "kamilla.csegzi@gmail.com"
     },
     "dependencies": {
         "johnny-five": ">= 0.7.3"
